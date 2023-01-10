@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+[![Linkedin: Eric Jatmiko](https://img.shields.io/badge/-EricJatmiko-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eric-jatmiko/)](https://www.linkedin.com/in/eric-jatmiko/)
+- ⚡ How to contact me: 
+[![](https://dcbadge.vercel.app/api/shield/334596867608412160)](https://discordapp.com/users/334596867608412160)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jatericx&langs_count=8&layout=compact&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![github stats](https://github-readme-stats.vercel.app/api?username=jatericx&show_icons=true&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **jatericx/jatericx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
